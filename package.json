@@ -1,0 +1,15 @@
+{
+  "name": "w3schools-node",
+  "version": "1.0.0",
+  "description": "writing the hello world server",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Navin Turkar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "formidable": "^2.0.1"
+  }
+}
